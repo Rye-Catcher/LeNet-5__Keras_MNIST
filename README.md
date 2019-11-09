@@ -22,9 +22,7 @@ First make sure you have set up the environment
 
 Then run `python start.py`
 
-It seems that running `start.exe` doesn't working and I have no idea how to solve it
-
-Maybe I can code it in C++ and it is in the to-do list
+If you are a lazy guy just like me, you can convert it into a `.exe` file using [pyinstaller](https://github.com/pyinstaller/pyinstaller)
 
 OR
 
@@ -45,7 +43,5 @@ A simple to make one is to use your **mspaint**
 Inspired by https://blog.csdn.net/u014453898/article/details/97680748 and https://juejin.im/post/5d66b6725188257e99442108
 
 For `cv2` functions, I learned them in https://www.kancloud.cn/aollo/aolloopencv/259610
-
-And I use [pyinstaller](https://github.com/pyinstaller/pyinstaller) to convert `.py` file to `.exe`
 
 Thanks my senior [@BoAi01](https://github.com/BoAi01) for his guidance and help
