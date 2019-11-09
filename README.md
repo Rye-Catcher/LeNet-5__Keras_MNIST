@@ -8,6 +8,8 @@
 - Keras      https://keras.io/
 - MNIST of Handwritten digits     http://yann.lecun.com/exdb/mnist/
 
+If you want to read codes to implement LeNet-5, please go to https://colab.research.google.com/drive/1PuGJGDzPogo7e1IMaHkEiJn7lNMyGDmY#scrollTo=3PXbnUnmg9Nj
+
 ### How?
 
 First make sure you have set up the environment
