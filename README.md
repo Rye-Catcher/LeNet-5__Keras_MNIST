@@ -40,6 +40,8 @@ Make sure it is `28*28` in pixel size
 
 A simple way to make one is to use your **mspaint**
 
+For MacOS and Linux users. Well... I believe you can find a substituition
+
 ### Acknowledgement
 
 Inspired by https://blog.csdn.net/u014453898/article/details/97680748 and https://juejin.im/post/5d66b6725188257e99442108
