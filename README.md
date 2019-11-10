@@ -38,7 +38,7 @@ If you want to substitude `test.png`
 
 Make sure it is `28*28` in pixel size
 
-A simple to make one is to use your **mspaint**
+A simple way to make one is to use your **mspaint**
 
 ### Acknowledgement
 
